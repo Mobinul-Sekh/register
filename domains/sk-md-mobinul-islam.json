@@ -1,0 +1,11 @@
+{
+  "description": "Sk Md Mobinul Islam's personal developer website",
+  "repo": "https://github.com/Mobinul-Sekh",
+  "owner": {
+      "username": "Mobinul-Sekh",
+      "email": "mskmd06@gmail.com"
+      },
+  "record": {
+      "CNAME": "Mobinul-Sekh.github.io"
+      }
+  }
